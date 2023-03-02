@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadPotato", "BadPotato.csproj", "{13B7A42A-9C5E-456F-B4D8-DF19003D0132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B7A42A-9C5E-456F-B4D8-DF19003D0132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B7A42A-9C5E-456F-B4D8-DF19003D0132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B7A42A-9C5E-456F-B4D8-DF19003D0132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B7A42A-9C5E-456F-B4D8-DF19003D0132}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F25AC6-00BC-4E2C-9C2E-563827327B4F}
+	EndGlobalSection
+EndGlobal
